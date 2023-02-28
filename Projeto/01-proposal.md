@@ -29,9 +29,4 @@ Neste trabalho não será considerado a possibilidade de assistir um filme onlin
 
 ### 4. Protótipo
 
-<div>
-  Protótipos para as páginas HOME e DETALHES DO FILME foram elaborados, e podem ser encontradas 
-  <a href="https://www.figma.com/file/mkjaq4x2hLGTqUclq133dZ/Prot%C3%B3tipo-My-Movies?node-id=0%3A1&t=Mw20E0jRj1S2Qakj-1" onclick="window.open(this.href,'_blank');return false;">
-    AQUI
-  </a>.
-</div>
+Protótipos para as páginas HOME e DETALHES DO FILME foram elaborados, e podem ser encontradas [AQUI](https://www.figma.com/file/mkjaq4x2hLGTqUclq133dZ/Prot%C3%B3tipo-My-Movies?node-id=0%3A1&t=Mw20E0jRj1S2Qakj-1).
