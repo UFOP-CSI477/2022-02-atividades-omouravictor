@@ -1,35 +1,32 @@
 # **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Victor Gabriel Siqueira Moura
 
 --------------
 
-<!-- Descrever um resumo sobre o trabalho. -->
-
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+Meu trabalho consiste em desenvolver uma biblioteca de filmes consumindo a [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction). O back-end e front-end da aplicação serão construídos em javascript, com utilização do React no front. A aplicação oferecerá ao usuário uma experiência de descoberta e detalhamento de filmes.
 
-<!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de ...
+O trabalho final tem como tema o desenvolvimento de uma biblioteca de filmes.
 
-<!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
 
-  Este projeto terá as seguintes funcionalidades...
+Este projeto terá as seguintes funcionalidades:
 
-<!-- Apresentar restrições de funcionalidades e de escopo. -->
+  - Descoberta de filmes populares.
+  - Descoberta de filmes melhores avaliados.
+  - Descoberta de filmes através de gêneros.
+  - Possibilidade de assistir o TRAILER de um filme.
+  - Filtragem personalizada de filmes.
+  - Visualização detalhada de filmes como sinopse, gênero relacionado, nota de avaliação, elenco, tempo de duração, ano de lançamento etc.
+
 ### 3. Restrições
 
-  Neste trabalho não serão considerados ...
+Neste trabalho não será considerado a possibilidade de assistir um filme online.
 
-<!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Protótipos para as páginas (descrever quais páginas) foram elaborados, e podem ser encontrados em...
-
-### 5. Referências
-
-  Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT.
+Protótipos para as páginas HOME e DETALHES DO FILME foram elaborados, e podem ser encontradas [AQUI](https://www.figma.com/file/mkjaq4x2hLGTqUclq133dZ/Prot%C3%B3tipo-My-Movies?node-id=0%3A1&t=Mw20E0jRj1S2Qakj-1).
