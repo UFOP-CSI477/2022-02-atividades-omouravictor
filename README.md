@@ -6,7 +6,7 @@
 - Matrícula: 20.1.8149
 - Curso: Sistemas de Informação
 - Semestre/Ano correntes: 2022/2
-- Link para o seu GitHub: https://github.com/omouravictor
+- Link para o seu GitHub: [omouravictor](https://github.com/omouravictor)
 
 ## [Projeto final:](./Projeto/README.md)
 
