@@ -5,7 +5,7 @@
 - Nome: Victor Gabriel Siqueira Moura
 - Matrícula: 20.1.8149
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: 6° semestre
+- Semestre/Ano correntes: 2022/2
 - Link para o seu GitHub: https://github.com/omouravictor
 
 ## [Projeto final:](./Projeto/README.md)
