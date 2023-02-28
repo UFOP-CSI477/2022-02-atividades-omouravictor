@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Victor Gabriel Siqueira Moura
+- Matrícula: 20.1.8149
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 6° semestre
+- Link para o seu GitHub: https://github.com/omouravictor
 
 ## [Projeto final:](./Projeto/README.md)
 
