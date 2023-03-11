@@ -10,4 +10,4 @@
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+Meu trabalho consiste em desenvolver uma biblioteca de filmes consumindo a [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction). A aplicação oferecerá ao usuário uma experiência de descoberta e detalhamento de filmes.
