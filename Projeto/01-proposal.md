@@ -22,6 +22,7 @@ Este projeto terá as seguintes funcionalidades:
   - Possibilidade de assistir o TRAILER de um filme.
   - Filtragem personalizada de filmes.
   - Visualização detalhada de filmes como sinopse, gênero relacionado, nota de avaliação, elenco, tempo de duração, ano de lançamento etc.
+  - Possibilidade de criar uma lista de filmes para assistir mais tarde.
 
 ### 3. Restrições
 
