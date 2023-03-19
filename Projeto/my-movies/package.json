@@ -1,0 +1,63 @@
+{
+  "name": "my-movies",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.12",
+    "autoprefixer": "^10.0.2",
+    "axios": "^0.21.0",
+    "chokidar-cli": "^2.1.0",
+    "node-sass": "4.14.1",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.1.8",
+    "query-string": "^6.13.7",
+    "react": "^17.0.1",
+    "react-burger-menu": "^2.9.2",
+    "react-dom": "^17.0.1",
+    "react-ga": "^3.3.0",
+    "react-helmet": "^6.1.0",
+    "react-lazyload": "^3.1.0",
+    "react-modal-video": "^1.2.6",
+    "react-rating": "^2.0.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-scroll": "^1.8.1",
+    "react-select": "^3.1.1",
+    "react-slick": "^0.27.13",
+    "react-sticky-box": "^0.9.3",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^2.0.1"
+  },
+  "scripts": {
+    "build:tailwind": "tailwind build src/styles/tailwind.css -o src/styles/tailwind.output.css",
+    "watch:tailwind": "chokidar 'src/**/*.css' 'src/**/*.scss' --ignore src/styles/tailwind.output.css -c 'npm run build:tailwind'",
+    "start:react": "react-scripts start",
+    "start": "npm-run-all build:tailwind --parallel watch:tailwind start:react",
+    "prebuild": "npm run build:tailwind",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

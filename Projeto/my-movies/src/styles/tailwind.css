@@ -1,0 +1,29 @@
+@tailwind base;
+
+html {
+  font-size: 80%;
+}
+
+@media only screen and (min-width: 700px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+@tailwind components;
+
+.sidebar {
+  width: 16rem;
+}
+.loader {
+  border: 0.3rem solid #f3f3f3;
+  border-top: 0.3rem solid #000;
+}
+.movie-img-wrapper {
+  min-height: 18rem;
+}
+.loader-wrapper {
+  min-height: 30rem;
+}
+
+@tailwind utilities;
